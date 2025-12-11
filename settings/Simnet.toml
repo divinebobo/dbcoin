@@ -1,0 +1,8 @@
+[network]
+name = "simnet"
+stacks_node = "http://127.0.0.1:20443"
+bitcoin_node = "http://127.0.0.1:18443"
+
+[accounts.deployer]
+mnemonic = "abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon abandon about"
+balance = 1000000000000000
