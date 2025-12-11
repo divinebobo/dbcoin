@@ -1,0 +1,11 @@
+[project]
+name = "dbcoin"
+description = "Dbcoin fungible token smart contract"
+authors = ["NKECHI OKOYE"]
+telemetry = false
+clarity_version = 2
+epoch = 2.4
+
+[contracts.dbcoin]
+path = "contracts/dbcoin.clar"
+depends_on = []
